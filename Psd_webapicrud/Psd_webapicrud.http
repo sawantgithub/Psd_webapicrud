@@ -1,0 +1,6 @@
+@Psd_webapicrud_HostAddress = http://localhost:5272
+
+GET {{Psd_webapicrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
